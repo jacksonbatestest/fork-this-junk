@@ -3,4 +3,6 @@ Fork it, innit
 
 Just adding some text, making a commit.
 
-Commiting some new text.
+Committing some new text.
+
+Committing some new text again, and fixed a typo.
