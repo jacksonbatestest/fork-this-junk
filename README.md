@@ -1,5 +1,5 @@
 # fork-this-junk
-Fork it, mate
+Fork it, mate!
 
 Just adding some text, making a commit.
 
