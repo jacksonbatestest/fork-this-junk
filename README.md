@@ -1,4 +1,3 @@
 # fork-this-junk
-Fork it, innit
-
-Just adding some text, making a commit.
+Fork it. 
+In it, just add some text and  make a commit.
