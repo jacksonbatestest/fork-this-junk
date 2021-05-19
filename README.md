@@ -9,4 +9,4 @@ Just adding some text, making a commit.
 - add your changes
 - add file to staging area with 'git add <fileName>'
 - commit changes with 'git commit -m <your message>'
-- git 
+- push changes, 'git push origin master'
